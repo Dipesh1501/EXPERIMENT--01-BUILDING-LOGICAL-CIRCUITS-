@@ -32,6 +32,7 @@ F1 = (!A & B & C)
 **Inputs:** A, B, C, D  
 **Output:** F1  
 **Challenge:** Simplify the expression and compare gate counts.
+<img width="1075" height="672" alt="image" src="https://github.com/user-attachments/assets/bd745892-2911-43da-93c4-d4136f438061" />
 
 ### Equation 2: Product-of-Sums Circuit
 
@@ -44,6 +45,8 @@ F2 = (A | !B | C)
 **Inputs:** A, B, C, D  
 **Output:** F2  
 **Challenge:** Implement the circuit using NAND gates and verify functional equivalence.
+<img width="1052" height="580" alt="image" src="https://github.com/user-attachments/assets/670f3478-ef18-4679-9b64-fe3abd21835c" />
+
 
 ### Equation 3: Nested Complement Logic
 
@@ -58,6 +61,7 @@ F3 = !(
 **Inputs:** A, B, C, D  
 **Output:** F3  
 **Challenge:** Apply De Morgan's theorems and implement the circuit using NAND and NOR gates.
+<img width="1600" height="917" alt="image" src="https://github.com/user-attachments/assets/6d0f764a-9609-41ea-bc47-0f109095f9b0" />
 
 ### Equation 4: XOR-XNOR Combinational Circuit
 
