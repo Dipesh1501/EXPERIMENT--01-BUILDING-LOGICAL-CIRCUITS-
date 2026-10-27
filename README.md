@@ -89,6 +89,8 @@ F5 = (A & B & !C)
 **Inputs:** A, B, C, D, E  
 **Output:** F5  
 **Challenge:** Generate and verify all 32 input combinations.
+<img width="1280" height="678" alt="image" src="https://github.com/user-attachments/assets/a15db212-197d-4e85-82c6-330880666c87" />
+
 
 ### Equation 6: Six-Input Mixed Logic
 
@@ -101,6 +103,7 @@ F6 = ((A | B) & !(C | D))
 **Inputs:** A, B, C, D, E, G  
 **Output:** F6  
 **Challenge:** Calculate gate count and logic depth. Verify all 64 input combinations.
+<img width="1006" height="532" alt="image" src="https://github.com/user-attachments/assets/869b324c-5325-474f-834a-59c783652de1" />
 
 ### Equation 7: NAND-NOR Hybrid Logic
 
@@ -112,6 +115,7 @@ F7 = (! (A & B) & !(C | D))
 **Inputs:** A, B, C, D  
 **Output:** F7  
 **Challenge:** Implement the function using NAND and NOR gates with any required input inversions.
+<img width="1280" height="685" alt="image" src="https://github.com/user-attachments/assets/0961c250-bace-49f8-b2dd-d718cd40b63d" />
 
 ### Equation 8: Six-Input Advanced Combinational Logic
 
