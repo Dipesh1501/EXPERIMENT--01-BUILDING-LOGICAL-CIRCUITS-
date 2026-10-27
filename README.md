@@ -75,6 +75,7 @@ F4 = ((A XOR B) & (C XNOR D))
 **Inputs:** A, B, C, D  
 **Output:** F4  
 **Challenge:** Compare an XOR/XNOR implementation with a basic-gate implementation.
+<img width="1073" height="572" alt="image" src="https://github.com/user-attachments/assets/76489f7e-ff90-49c1-abcc-ee6959ecfd9a" />
 
 ### Equation 5: Five-Input Logic Function
 
