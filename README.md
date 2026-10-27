@@ -32,7 +32,8 @@ F1 = (!A & B & C)
 **Inputs:** A, B, C, D  
 **Output:** F1  
 **Challenge:** Simplify the expression and compare gate counts.
-<img width="1075" height="672" alt="image" src="https://github.com/user-attachments/assets/bd745892-2911-43da-93c4-d4136f438061" />
+<img width="1600" height="917" alt="image" src="https://github.com/user-attachments/assets/6a06e6fd-2d57-489c-aa9b-e2e541b8835f" />
+
 
 ### Equation 2: Product-of-Sums Circuit
 
@@ -61,7 +62,8 @@ F3 = !(
 **Inputs:** A, B, C, D  
 **Output:** F3  
 **Challenge:** Apply De Morgan's theorems and implement the circuit using NAND and NOR gates.
-<img width="1600" height="917" alt="image" src="https://github.com/user-attachments/assets/6d0f764a-9609-41ea-bc47-0f109095f9b0" />
+<img width="1075" height="672" alt="image" src="https://github.com/user-attachments/assets/8bad5ad5-95ed-4a02-8ddf-c7b39cbe4092" />
+
 
 ### Equation 4: XOR-XNOR Combinational Circuit
 
